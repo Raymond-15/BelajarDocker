@@ -1,0 +1,23 @@
+{
+  "name": "belajardocker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raymond-15/BelajarDocker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raymond-15/BelajarDocker/issues"
+  },
+  "homepage": "https://github.com/Raymond-15/BelajarDocker#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
